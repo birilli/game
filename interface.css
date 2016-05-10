@@ -1,0 +1,98 @@
+#mainbody {
+	font-family: "Verdana", sans-serif;
+	background-color: #F0FFF0;
+}
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+
+#intro {
+	background-color: #63AB62;
+	color: white;
+}
+
+#toolbar {
+	text-align: right;
+}
+
+#intro {
+	font-family: "Verdana", sans-serif;
+	text-align: center;
+}
+
+#introtext {
+	: #63AB62;
+}
+
+#menu {
+	border-style: solid;
+	border-width: 1px;
+	text-align: left;
+	margin-left: 10px;
+	padding: 5px;
+	margin-top: ;
+	margin-bottom: 20px;
+	
+}
+
+
+#tableresources {
+	border-style: solid;
+	border-width: 1px;
+	padding: 2px 3px;
+	position: fixed;
+}
+
+td {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #B2D0B4;
+	padding: 4px;
+
+}
+
+#th1 {
+	text-align: left;
+	padding-right: 7px;
+}
+
+#th2 {
+	text-align: left;
+	padding-right: 7px;
+}
+
+#th3 {
+	text-align: left;
+}
+
+
+#buttons {
+    font-family: "Verdana", sans-serif;
+	background-color: #F0FFF0;
+	display: inline-block;
+	color: black;
+	position: fixed;
+	margin-left: 330px;
+	padding: 0px;
+	width: 100px;
+	
+}
+
+/* all button collums should be increasing margin-left by 110 px */
+
+#buttoncolumn2 {
+    font-family: "Verdana", sans-serif;
+	background-color: #F0FFF0;
+	display: inline-block;
+	color: black;
+	position: fixed;
+	margin-left: 440px;
+	padding: 0px;
+	width: 100px;
+	
+}
+
+
+
+
+#rightcolumn
